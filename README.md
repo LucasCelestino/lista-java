@@ -13,11 +13,11 @@ isto define a consumação média de carne(quantidade de carne consumida), pesso
 Pessoas de 4 a 12 anos consomem 1 kilo de carne e de 13 anos em diante 2 kilos de carne
 
 
-*Exercício 1.2*
-**Implemente uma classe Lâmpada. Toda lâmpada possui um estado (on/off ). Sabe-se que as lâmpadas podem ter seu estado
+**Exercício 1.2**
+*Implemente uma classe Lâmpada. Toda lâmpada possui um estado (on/off ). Sabe-se que as lâmpadas podem ter seu estado
 trocado (click do interruptor). Será necessário também uma funcionalidade para checar o estado atual da lâmpada. Uma lâmpada estraga após
 uma quantidade de clicks (o click não troca mais o estado deixando-a
-eternamente em off ) e esta depende da lâmpada. Implemente esta situação e seu teste.**
+eternamente em off ) e esta depende da lâmpada. Implemente esta situação e seu teste.*
 
 
 *Exercício 1.3*
